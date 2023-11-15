@@ -1,1 +1,2 @@
-print "Helo World"
+printf "Helo World"
+printf "Bye World"
